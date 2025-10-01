@@ -1,0 +1,23 @@
+2025-10-01 14:29:17 - Iniciando a função de login...
+2025-10-01 14:31:02 - teste login
+2025-10-01 14:31:22 - teste log
+2025-10-01 14:33:57 - Iniciando o teste na Pagina de Login
+2025-10-01 14:33:57 - Teste na Pagina de Login de email invalido (Usuário não encontrado)
+2025-10-01 14:53:58 - Iniciando o teste na Pagina de Login
+2025-10-01 14:53:58 - Teste na Pagina de Login de email invalido (Usuário não encontrado)
+2025-10-01 15:01:30 - Iniciando o teste na Pagina de Login
+2025-10-01 15:01:30 - Teste na Pagina de Login de email invalido (Usuário não encontrado)
+2025-10-01 15:01:49 - Iniciando o teste na Pagina de Login
+2025-10-01 15:01:49 - Teste na Pagina de Login de email invalido (Usuário não encontrado)
+2025-10-01 15:03:15 - Iniciando o teste na Pagina de Login
+2025-10-01 15:03:15 - Teste na Pagina de Login de email invalido (Usuário não encontrado)
+2025-10-01 15:03:36 - Teste na Pagina de Login de senha invalido (Senha incorreta.)
+2025-10-01 15:04:34 - Iniciando o teste na Pagina de Login
+2025-10-01 15:04:34 - Teste na Pagina de Login de email invalido (Usuário não encontrado)
+2025-10-01 15:04:36 - Iniciando o teste na Pagina de Login
+2025-10-01 15:04:36 - Teste na Pagina de Login de email invalido (Usuário não encontrado)
+2025-10-01 15:04:59 - Iniciando o teste na Pagina de Login
+2025-10-01 15:04:59 - Teste na Pagina de Login de email invalido (Usuário não encontrado)
+2025-10-01 15:05:20 - Teste na Pagina de Login de senha invalido (Senha incorreta.)
+2025-10-01 15:05:40 - Teste na Pagina de Login de esqueceu o recaptcha
+2025-10-01 15:05:49 - Teste na Pagina de Login de tudo valido
